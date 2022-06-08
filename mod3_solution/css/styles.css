@@ -1,0 +1,49 @@
+body{
+    font-family: monospace;
+}
+#nav-list li{
+    background-color: white;
+    margin:-5px 0;
+    border: 1px solid;
+}
+
+/* #navbar-collapse{
+    background-color: white;
+    border: 1px solid black;
+    padding-bottom: 0;
+} */
+
+#nav-list hr{
+    width: 99%;
+    color: black;
+    margin: 0 auto 0;
+    border: 1px solid black;
+}
+
+nav{
+    font-weight: bold;
+    font-size: 150%;
+    background-color: lightgray;
+}
+#btn-navbar{
+    border: 1px solid;
+}
+
+div.menu-item{
+    background-color: lightgray;
+    /* margin: 10px; */
+}
+div.row{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    margin-top: 0px;
+}
+
+h4.menu-title{
+    font-weight: bold;
+}
+
+
