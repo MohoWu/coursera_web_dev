@@ -7,6 +7,10 @@ body{
     border: 1px solid;
 }
 
+div.container-fluid{
+    background-color: lightgray;
+}
+
 /* #navbar-collapse{
     background-color: white;
     border: 1px solid black;
